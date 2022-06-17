@@ -12,8 +12,6 @@ Eu desenvolvi esta interface, com o intuito de práticar a codificação com bas
 
 https://sass-reactjs-website.herokuapp.com/
 
-## Direitos Autorais
-
 ## Clonando o Repositório
 
 ```bash
